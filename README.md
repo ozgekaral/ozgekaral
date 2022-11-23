@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ozgekaral
-- 👀 I’m interested in machine learning and deep learning
-- 🌱 I’m currently learning deep learning
+- 👀 I’m interested in machine learning and deep learning,you can review these repos
+- 🌱 I’m currently learning - deep learning
 - 📫 How to reach me karalozge@gmail.com, https://medium.com/@ozgekaral
 
 <!---
